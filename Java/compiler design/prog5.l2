@@ -1,0 +1,7 @@
+program prog5 is
+var a :integer;
+begin
+  write(429);
+  writeln;
+end prog5.
+

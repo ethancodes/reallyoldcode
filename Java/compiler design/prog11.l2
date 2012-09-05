@@ -1,0 +1,7 @@
+program prog11 is
+var a, b, c, d :integer;
+begin
+  read(a);
+  read(b, c, d);
+end prog11.
+

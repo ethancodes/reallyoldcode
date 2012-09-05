@@ -1,0 +1,53 @@
+#include "vector.h"
+
+template <class T>
+class Stack
+{
+  protected:
+    vector<T> v;
+    int stackTop;
+  public:
+    Stack() : stackTop = 0 {};
+    void push(T newItem);  //push a new item on the stack
+    void pop();            //remove an item from the stack
+    T top();               //what's the top element?
+    int size();            //how many items are in the stack?
+    void disp();           //display the stack...
+};
+
+template <class T>
+void Stack<T>::push(T newItem)
+{
+  stackTop++;
+  v.push_back(newItem);
+}
+
+template <class T>
+void Stack<T>::pop()
+{
+  stackTop--;
+}
+
+template <class T>
+T Stack<T>::top()
+{
+  return v[top-1];
+}
+
+template <class T>
+int Stack<T>::size()
+{
+  return stackTop;
+}
+
+template <class T>
+void Stack<T>::disp()
+{
+  int i;
+  cout << "Item # | Value\n";
+  for (i = 0; i < stackTop; i++)
+  {
+    cout << "     " << i << "      " << v[i] << endl;
+  }
+  return;
+}

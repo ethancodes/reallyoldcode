@@ -1,0 +1,6 @@
+program prog1 is
+var num, value :integer;
+    found      :boolean;
+begin
+end prog1.
+

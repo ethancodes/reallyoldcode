@@ -1,0 +1,19 @@
+2 Top item is 2
+2 4 Top item is 2
+2 4 6 Top item is 2
+2 4 6 8 Top item is 2
+2 4 6 8 10 Top item is 2
+2 4 6 8 10 12 Top item is 2
+2 4 6 8 10 12 14 Top item is 2
+Deleted 2
+4 8 6 14 10 12 Deleted 4
+6 8 12 14 10 Deleted 6
+8 10 12 14 Deleted 8
+10 14 12 Deleted 10
+12 14 Deleted 12
+14 Deleted 14
+
+Vector before heapification...
+5 6 4 7 3 8 2 9 1 0
+Vector after heapification...
+0 1 2 5 3 8 4 9 7 6

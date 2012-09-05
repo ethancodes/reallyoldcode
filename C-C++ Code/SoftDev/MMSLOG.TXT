@@ -1,0 +1,2116 @@
+SegmentTable initialized.
+PageTable initialized at address 1
+Page initialized at address 2
+Page initialized at address 3
+Page initialized at address 4
+Page initialized at address 5
+Page initialized at address 6
+Page initialized at address 7
+Page initialized at address 8
+Page initialized at address 9
+Page initialized at address 10
+Page initialized at address 11
+Page initialized at address 12
+Page initialized at address 13
+Page initialized at address 14
+Page initialized at address 15
+Page initialized at address 16
+Page initialized at address 17
+Page initialized at address 18
+Page initialized at address 19
+Page initialized at address 20
+Page initialized at address 21
+Page initialized at address 22
+Page initialized at address 23
+Page initialized at address 24
+Page initialized at address 25
+Page initialized at address 26
+Page initialized at address 27
+Page initialized at address 28
+Page initialized at address 29
+Page initialized at address 30
+Page initialized at address 31
+Page initialized at address 32
+Page initialized at address 33
+PageTable initialized at address 34
+Page initialized at address 35
+Page initialized at address 36
+Page initialized at address 37
+Page initialized at address 38
+Page initialized at address 39
+Page initialized at address 40
+Page initialized at address 41
+Page initialized at address 42
+Page initialized at address 43
+Page initialized at address 44
+Page initialized at address 45
+Page initialized at address 46
+Page initialized at address 47
+Page initialized at address 48
+Page initialized at address 49
+Page initialized at address 50
+Page initialized at address 51
+Page initialized at address 52
+Page initialized at address 53
+Page initialized at address 54
+Page initialized at address 55
+Page initialized at address 56
+Page initialized at address 57
+Page initialized at address 58
+Page initialized at address 59
+Page initialized at address 60
+Page initialized at address 61
+Page initialized at address 62
+Page initialized at address 63
+Page initialized at address 64
+Page initialized at address 65
+Page initialized at address 66
+PageTable initialized at address 67
+Page initialized at address 68
+Page initialized at address 69
+Page initialized at address 70
+Page initialized at address 71
+Page initialized at address 72
+Page initialized at address 73
+Page initialized at address 74
+Page initialized at address 75
+Page initialized at address 76
+Page initialized at address 77
+Page initialized at address 78
+Page initialized at address 79
+Page initialized at address 80
+Page initialized at address 81
+Page initialized at address 82
+Page initialized at address 83
+Page initialized at address 84
+Page initialized at address 85
+Page initialized at address 86
+Page initialized at address 87
+Page initialized at address 88
+Page initialized at address 89
+Page initialized at address 90
+Page initialized at address 91
+Page initialized at address 92
+Page initialized at address 93
+Page initialized at address 94
+Page initialized at address 95
+Page initialized at address 96
+Page initialized at address 97
+Page initialized at address 98
+Page initialized at address 99
+PageTable initialized at address 100
+Page initialized at address 101
+Page initialized at address 102
+Page initialized at address 103
+Page initialized at address 104
+Page initialized at address 105
+Page initialized at address 106
+Page initialized at address 107
+Page initialized at address 108
+Page initialized at address 109
+Page initialized at address 110
+Page initialized at address 111
+Page initialized at address 112
+Page initialized at address 113
+Page initialized at address 114
+Page initialized at address 115
+Page initialized at address 116
+Page initialized at address 117
+Page initialized at address 118
+Page initialized at address 119
+Page initialized at address 120
+Page initialized at address 121
+Page initialized at address 122
+Page initialized at address 123
+Page initialized at address 124
+Page initialized at address 125
+Page initialized at address 126
+Page initialized at address 127
+Page initialized at address 128
+Page initialized at address 129
+Page initialized at address 130
+Page initialized at address 131
+Page initialized at address 132
+PageTable initialized at address 133
+Page initialized at address 134
+Page initialized at address 135
+Page initialized at address 136
+Page initialized at address 137
+Page initialized at address 138
+Page initialized at address 139
+Page initialized at address 140
+Page initialized at address 141
+Page initialized at address 142
+Page initialized at address 143
+Page initialized at address 144
+Page initialized at address 145
+Page initialized at address 146
+Page initialized at address 147
+Page initialized at address 148
+Page initialized at address 149
+Page initialized at address 150
+Page initialized at address 151
+Page initialized at address 152
+Page initialized at address 153
+Page initialized at address 154
+Page initialized at address 155
+Page initialized at address 156
+Page initialized at address 157
+Page initialized at address 158
+Page initialized at address 159
+Page initialized at address 160
+Page initialized at address 161
+Page initialized at address 162
+Page initialized at address 163
+Page initialized at address 164
+Page initialized at address 165
+PageTable initialized at address 166
+Page initialized at address 167
+Page initialized at address 168
+Page initialized at address 169
+Page initialized at address 170
+Page initialized at address 171
+Page initialized at address 172
+Page initialized at address 173
+Page initialized at address 174
+Page initialized at address 175
+Page initialized at address 176
+Page initialized at address 177
+Page initialized at address 178
+Page initialized at address 179
+Page initialized at address 180
+Page initialized at address 181
+Page initialized at address 182
+Page initialized at address 183
+Page initialized at address 184
+Page initialized at address 185
+Page initialized at address 186
+Page initialized at address 187
+Page initialized at address 188
+Page initialized at address 189
+Page initialized at address 190
+Page initialized at address 191
+Page initialized at address 192
+Page initialized at address 193
+Page initialized at address 194
+Page initialized at address 195
+Page initialized at address 196
+Page initialized at address 197
+Page initialized at address 198
+PageTable initialized at address 199
+Page initialized at address 200
+Page initialized at address 201
+Page initialized at address 202
+Page initialized at address 203
+Page initialized at address 204
+Page initialized at address 205
+Page initialized at address 206
+Page initialized at address 207
+Page initialized at address 208
+Page initialized at address 209
+Page initialized at address 210
+Page initialized at address 211
+Page initialized at address 212
+Page initialized at address 213
+Page initialized at address 214
+Page initialized at address 215
+Page initialized at address 216
+Page initialized at address 217
+Page initialized at address 218
+Page initialized at address 219
+Page initialized at address 220
+Page initialized at address 221
+Page initialized at address 222
+Page initialized at address 223
+Page initialized at address 224
+Page initialized at address 225
+Page initialized at address 226
+Page initialized at address 227
+Page initialized at address 228
+Page initialized at address 229
+Page initialized at address 230
+Page initialized at address 231
+PageTable initialized at address 232
+Page initialized at address 233
+Page initialized at address 234
+Page initialized at address 235
+Page initialized at address 236
+Page initialized at address 237
+Page initialized at address 238
+Page initialized at address 239
+Page initialized at address 240
+Page initialized at address 241
+Page initialized at address 242
+Page initialized at address 243
+Page initialized at address 244
+Page initialized at address 245
+Page initialized at address 246
+Page initialized at address 247
+Page initialized at address 248
+Page initialized at address 249
+Page initialized at address 250
+Page initialized at address 251
+Page initialized at address 252
+Page initialized at address 253
+Page initialized at address 254
+Page initialized at address 255
+Page initialized at address 256
+Page initialized at address 257
+Page initialized at address 258
+Page initialized at address 259
+Page initialized at address 260
+Page initialized at address 261
+Page initialized at address 262
+Page initialized at address 263
+Page initialized at address 264
+PageTable initialized at address 265
+Page initialized at address 266
+Page initialized at address 267
+Page initialized at address 268
+Page initialized at address 269
+Page initialized at address 270
+Page initialized at address 271
+Page initialized at address 272
+Page initialized at address 273
+Page initialized at address 274
+Page initialized at address 275
+Page initialized at address 276
+Page initialized at address 277
+Page initialized at address 278
+Page initialized at address 279
+Page initialized at address 280
+Page initialized at address 281
+Page initialized at address 282
+Page initialized at address 283
+Page initialized at address 284
+Page initialized at address 285
+Page initialized at address 286
+Page initialized at address 287
+Page initialized at address 288
+Page initialized at address 289
+Page initialized at address 290
+Page initialized at address 291
+Page initialized at address 292
+Page initialized at address 293
+Page initialized at address 294
+Page initialized at address 295
+Page initialized at address 296
+Page initialized at address 297
+PageTable initialized at address 298
+Page initialized at address 299
+Page initialized at address 300
+Page initialized at address 301
+Page initialized at address 302
+Page initialized at address 303
+Page initialized at address 304
+Page initialized at address 305
+Page initialized at address 306
+Page initialized at address 307
+Page initialized at address 308
+Page initialized at address 309
+Page initialized at address 310
+Page initialized at address 311
+Page initialized at address 312
+Page initialized at address 313
+Page initialized at address 314
+Page initialized at address 315
+Page initialized at address 316
+Page initialized at address 317
+Page initialized at address 318
+Page initialized at address 319
+Page initialized at address 320
+Page initialized at address 321
+Page initialized at address 322
+Page initialized at address 323
+Page initialized at address 324
+Page initialized at address 325
+Page initialized at address 326
+Page initialized at address 327
+Page initialized at address 328
+Page initialized at address 329
+Page initialized at address 330
+PageTable initialized at address 331
+Page initialized at address 332
+Page initialized at address 333
+Page initialized at address 334
+Page initialized at address 335
+Page initialized at address 336
+Page initialized at address 337
+Page initialized at address 338
+Page initialized at address 339
+Page initialized at address 340
+Page initialized at address 341
+Page initialized at address 342
+Page initialized at address 343
+Page initialized at address 344
+Page initialized at address 345
+Page initialized at address 346
+Page initialized at address 347
+Page initialized at address 348
+Page initialized at address 349
+Page initialized at address 350
+Page initialized at address 351
+Page initialized at address 352
+Page initialized at address 353
+Page initialized at address 354
+Page initialized at address 355
+Page initialized at address 356
+Page initialized at address 357
+Page initialized at address 358
+Page initialized at address 359
+Page initialized at address 360
+Page initialized at address 361
+Page initialized at address 362
+Page initialized at address 363
+PageTable initialized at address 364
+Page initialized at address 365
+Page initialized at address 366
+Page initialized at address 367
+Page initialized at address 368
+Page initialized at address 369
+Page initialized at address 370
+Page initialized at address 371
+Page initialized at address 372
+Page initialized at address 373
+Page initialized at address 374
+Page initialized at address 375
+Page initialized at address 376
+Page initialized at address 377
+Page initialized at address 378
+Page initialized at address 379
+Page initialized at address 380
+Page initialized at address 381
+Page initialized at address 382
+Page initialized at address 383
+Page initialized at address 384
+Page initialized at address 385
+Page initialized at address 386
+Page initialized at address 387
+Page initialized at address 388
+Page initialized at address 389
+Page initialized at address 390
+Page initialized at address 391
+Page initialized at address 392
+Page initialized at address 393
+Page initialized at address 394
+Page initialized at address 395
+Page initialized at address 396
+PageTable initialized at address 397
+Page initialized at address 398
+Page initialized at address 399
+Page initialized at address 400
+Page initialized at address 401
+Page initialized at address 402
+Page initialized at address 403
+Page initialized at address 404
+Page initialized at address 405
+Page initialized at address 406
+Page initialized at address 407
+Page initialized at address 408
+Page initialized at address 409
+Page initialized at address 410
+Page initialized at address 411
+Page initialized at address 412
+Page initialized at address 413
+Page initialized at address 414
+Page initialized at address 415
+Page initialized at address 416
+Page initialized at address 417
+Page initialized at address 418
+Page initialized at address 419
+Page initialized at address 420
+Page initialized at address 421
+Page initialized at address 422
+Page initialized at address 423
+Page initialized at address 424
+Page initialized at address 425
+Page initialized at address 426
+Page initialized at address 427
+Page initialized at address 428
+Page initialized at address 429
+PageTable initialized at address 430
+Page initialized at address 431
+Page initialized at address 432
+Page initialized at address 433
+Page initialized at address 434
+Page initialized at address 435
+Page initialized at address 436
+Page initialized at address 437
+Page initialized at address 438
+Page initialized at address 439
+Page initialized at address 440
+Page initialized at address 441
+Page initialized at address 442
+Page initialized at address 443
+Page initialized at address 444
+Page initialized at address 445
+Page initialized at address 446
+Page initialized at address 447
+Page initialized at address 448
+Page initialized at address 449
+Page initialized at address 450
+Page initialized at address 451
+Page initialized at address 452
+Page initialized at address 453
+Page initialized at address 454
+Page initialized at address 455
+Page initialized at address 456
+Page initialized at address 457
+Page initialized at address 458
+Page initialized at address 459
+Page initialized at address 460
+Page initialized at address 461
+Page initialized at address 462
+PageTable initialized at address 463
+Page initialized at address 464
+Page initialized at address 465
+Page initialized at address 466
+Page initialized at address 467
+Page initialized at address 468
+Page initialized at address 469
+Page initialized at address 470
+Page initialized at address 471
+Page initialized at address 472
+Page initialized at address 473
+Page initialized at address 474
+Page initialized at address 475
+Page initialized at address 476
+Page initialized at address 477
+Page initialized at address 478
+Page initialized at address 479
+Page initialized at address 480
+Page initialized at address 481
+Page initialized at address 482
+Page initialized at address 483
+Page initialized at address 484
+Page initialized at address 485
+Page initialized at address 486
+Page initialized at address 487
+Page initialized at address 488
+Page initialized at address 489
+Page initialized at address 490
+Page initialized at address 491
+Page initialized at address 492
+Page initialized at address 493
+Page initialized at address 494
+Page initialized at address 495
+PageTable initialized at address 496
+Page initialized at address 497
+Page initialized at address 498
+Page initialized at address 499
+Page initialized at address 500
+Page initialized at address 501
+Page initialized at address 502
+Page initialized at address 503
+Page initialized at address 504
+Page initialized at address 505
+Page initialized at address 506
+Page initialized at address 507
+Page initialized at address 508
+Page initialized at address 509
+Page initialized at address 510
+Page initialized at address 511
+Page initialized at address 512
+Page initialized at address 513
+Page initialized at address 514
+Page initialized at address 515
+Page initialized at address 516
+Page initialized at address 517
+Page initialized at address 518
+Page initialized at address 519
+Page initialized at address 520
+Page initialized at address 521
+Page initialized at address 522
+Page initialized at address 523
+Page initialized at address 524
+Page initialized at address 525
+Page initialized at address 526
+Page initialized at address 527
+Page initialized at address 528
+PageTable initialized at address 529
+Page initialized at address 530
+Page initialized at address 531
+Page initialized at address 532
+Page initialized at address 533
+Page initialized at address 534
+Page initialized at address 535
+Page initialized at address 536
+Page initialized at address 537
+Page initialized at address 538
+Page initialized at address 539
+Page initialized at address 540
+Page initialized at address 541
+Page initialized at address 542
+Page initialized at address 543
+Page initialized at address 544
+Page initialized at address 545
+Page initialized at address 546
+Page initialized at address 547
+Page initialized at address 548
+Page initialized at address 549
+Page initialized at address 550
+Page initialized at address 551
+Page initialized at address 552
+Page initialized at address 553
+Page initialized at address 554
+Page initialized at address 555
+Page initialized at address 556
+Page initialized at address 557
+Page initialized at address 558
+Page initialized at address 559
+Page initialized at address 560
+Page initialized at address 561
+PageTable initialized at address 562
+Page initialized at address 563
+Page initialized at address 564
+Page initialized at address 565
+Page initialized at address 566
+Page initialized at address 567
+Page initialized at address 568
+Page initialized at address 569
+Page initialized at address 570
+Page initialized at address 571
+Page initialized at address 572
+Page initialized at address 573
+Page initialized at address 574
+Page initialized at address 575
+Page initialized at address 576
+Page initialized at address 577
+Page initialized at address 578
+Page initialized at address 579
+Page initialized at address 580
+Page initialized at address 581
+Page initialized at address 582
+Page initialized at address 583
+Page initialized at address 584
+Page initialized at address 585
+Page initialized at address 586
+Page initialized at address 587
+Page initialized at address 588
+Page initialized at address 589
+Page initialized at address 590
+Page initialized at address 591
+Page initialized at address 592
+Page initialized at address 593
+Page initialized at address 594
+PageTable initialized at address 595
+Page initialized at address 596
+Page initialized at address 597
+Page initialized at address 598
+Page initialized at address 599
+Page initialized at address 600
+Page initialized at address 601
+Page initialized at address 602
+Page initialized at address 603
+Page initialized at address 604
+Page initialized at address 605
+Page initialized at address 606
+Page initialized at address 607
+Page initialized at address 608
+Page initialized at address 609
+Page initialized at address 610
+Page initialized at address 611
+Page initialized at address 612
+Page initialized at address 613
+Page initialized at address 614
+Page initialized at address 615
+Page initialized at address 616
+Page initialized at address 617
+Page initialized at address 618
+Page initialized at address 619
+Page initialized at address 620
+Page initialized at address 621
+Page initialized at address 622
+Page initialized at address 623
+Page initialized at address 624
+Page initialized at address 625
+Page initialized at address 626
+Page initialized at address 627
+PageTable initialized at address 628
+Page initialized at address 629
+Page initialized at address 630
+Page initialized at address 631
+Page initialized at address 632
+Page initialized at address 633
+Page initialized at address 634
+Page initialized at address 635
+Page initialized at address 636
+Page initialized at address 637
+Page initialized at address 638
+Page initialized at address 639
+Page initialized at address 640
+Page initialized at address 641
+Page initialized at address 642
+Page initialized at address 643
+Page initialized at address 644
+Page initialized at address 645
+Page initialized at address 646
+Page initialized at address 647
+Page initialized at address 648
+Page initialized at address 649
+Page initialized at address 650
+Page initialized at address 651
+Page initialized at address 652
+Page initialized at address 653
+Page initialized at address 654
+Page initialized at address 655
+Page initialized at address 656
+Page initialized at address 657
+Page initialized at address 658
+Page initialized at address 659
+Page initialized at address 660
+PageTable initialized at address 661
+Page initialized at address 662
+Page initialized at address 663
+Page initialized at address 664
+Page initialized at address 665
+Page initialized at address 666
+Page initialized at address 667
+Page initialized at address 668
+Page initialized at address 669
+Page initialized at address 670
+Page initialized at address 671
+Page initialized at address 672
+Page initialized at address 673
+Page initialized at address 674
+Page initialized at address 675
+Page initialized at address 676
+Page initialized at address 677
+Page initialized at address 678
+Page initialized at address 679
+Page initialized at address 680
+Page initialized at address 681
+Page initialized at address 682
+Page initialized at address 683
+Page initialized at address 684
+Page initialized at address 685
+Page initialized at address 686
+Page initialized at address 687
+Page initialized at address 688
+Page initialized at address 689
+Page initialized at address 690
+Page initialized at address 691
+Page initialized at address 692
+Page initialized at address 693
+PageTable initialized at address 694
+Page initialized at address 695
+Page initialized at address 696
+Page initialized at address 697
+Page initialized at address 698
+Page initialized at address 699
+Page initialized at address 700
+Page initialized at address 701
+Page initialized at address 702
+Page initialized at address 703
+Page initialized at address 704
+Page initialized at address 705
+Page initialized at address 706
+Page initialized at address 707
+Page initialized at address 708
+Page initialized at address 709
+Page initialized at address 710
+Page initialized at address 711
+Page initialized at address 712
+Page initialized at address 713
+Page initialized at address 714
+Page initialized at address 715
+Page initialized at address 716
+Page initialized at address 717
+Page initialized at address 718
+Page initialized at address 719
+Page initialized at address 720
+Page initialized at address 721
+Page initialized at address 722
+Page initialized at address 723
+Page initialized at address 724
+Page initialized at address 725
+Page initialized at address 726
+PageTable initialized at address 727
+Page initialized at address 728
+Page initialized at address 729
+Page initialized at address 730
+Page initialized at address 731
+Page initialized at address 732
+Page initialized at address 733
+Page initialized at address 734
+Page initialized at address 735
+Page initialized at address 736
+Page initialized at address 737
+Page initialized at address 738
+Page initialized at address 739
+Page initialized at address 740
+Page initialized at address 741
+Page initialized at address 742
+Page initialized at address 743
+Page initialized at address 744
+Page initialized at address 745
+Page initialized at address 746
+Page initialized at address 747
+Page initialized at address 748
+Page initialized at address 749
+Page initialized at address 750
+Page initialized at address 751
+Page initialized at address 752
+Page initialized at address 753
+Page initialized at address 754
+Page initialized at address 755
+Page initialized at address 756
+Page initialized at address 757
+Page initialized at address 758
+Page initialized at address 759
+PageTable initialized at address 760
+Page initialized at address 761
+Page initialized at address 762
+Page initialized at address 763
+Page initialized at address 764
+Page initialized at address 765
+Page initialized at address 766
+Page initialized at address 767
+Page initialized at address 768
+Page initialized at address 769
+Page initialized at address 770
+Page initialized at address 771
+Page initialized at address 772
+Page initialized at address 773
+Page initialized at address 774
+Page initialized at address 775
+Page initialized at address 776
+Page initialized at address 777
+Page initialized at address 778
+Page initialized at address 779
+Page initialized at address 780
+Page initialized at address 781
+Page initialized at address 782
+Page initialized at address 783
+Page initialized at address 784
+Page initialized at address 785
+Page initialized at address 786
+Page initialized at address 787
+Page initialized at address 788
+Page initialized at address 789
+Page initialized at address 790
+Page initialized at address 791
+Page initialized at address 792
+PageTable initialized at address 793
+Page initialized at address 794
+Page initialized at address 795
+Page initialized at address 796
+Page initialized at address 797
+Page initialized at address 798
+Page initialized at address 799
+Page initialized at address 800
+Page initialized at address 801
+Page initialized at address 802
+Page initialized at address 803
+Page initialized at address 804
+Page initialized at address 805
+Page initialized at address 806
+Page initialized at address 807
+Page initialized at address 808
+Page initialized at address 809
+Page initialized at address 810
+Page initialized at address 811
+Page initialized at address 812
+Page initialized at address 813
+Page initialized at address 814
+Page initialized at address 815
+Page initialized at address 816
+Page initialized at address 817
+Page initialized at address 818
+Page initialized at address 819
+Page initialized at address 820
+Page initialized at address 821
+Page initialized at address 822
+Page initialized at address 823
+Page initialized at address 824
+Page initialized at address 825
+PageTable initialized at address 826
+Page initialized at address 827
+Page initialized at address 828
+Page initialized at address 829
+Page initialized at address 830
+Page initialized at address 831
+Page initialized at address 832
+Page initialized at address 833
+Page initialized at address 834
+Page initialized at address 835
+Page initialized at address 836
+Page initialized at address 837
+Page initialized at address 838
+Page initialized at address 839
+Page initialized at address 840
+Page initialized at address 841
+Page initialized at address 842
+Page initialized at address 843
+Page initialized at address 844
+Page initialized at address 845
+Page initialized at address 846
+Page initialized at address 847
+Page initialized at address 848
+Page initialized at address 849
+Page initialized at address 850
+Page initialized at address 851
+Page initialized at address 852
+Page initialized at address 853
+Page initialized at address 854
+Page initialized at address 855
+Page initialized at address 856
+Page initialized at address 857
+Page initialized at address 858
+PageTable initialized at address 859
+Page initialized at address 860
+Page initialized at address 861
+Page initialized at address 862
+Page initialized at address 863
+Page initialized at address 864
+Page initialized at address 865
+Page initialized at address 866
+Page initialized at address 867
+Page initialized at address 868
+Page initialized at address 869
+Page initialized at address 870
+Page initialized at address 871
+Page initialized at address 872
+Page initialized at address 873
+Page initialized at address 874
+Page initialized at address 875
+Page initialized at address 876
+Page initialized at address 877
+Page initialized at address 878
+Page initialized at address 879
+Page initialized at address 880
+Page initialized at address 881
+Page initialized at address 882
+Page initialized at address 883
+Page initialized at address 884
+Page initialized at address 885
+Page initialized at address 886
+Page initialized at address 887
+Page initialized at address 888
+Page initialized at address 889
+Page initialized at address 890
+Page initialized at address 891
+PageTable initialized at address 892
+Page initialized at address 893
+Page initialized at address 894
+Page initialized at address 895
+Page initialized at address 896
+Page initialized at address 897
+Page initialized at address 898
+Page initialized at address 899
+Page initialized at address 900
+Page initialized at address 901
+Page initialized at address 902
+Page initialized at address 903
+Page initialized at address 904
+Page initialized at address 905
+Page initialized at address 906
+Page initialized at address 907
+Page initialized at address 908
+Page initialized at address 909
+Page initialized at address 910
+Page initialized at address 911
+Page initialized at address 912
+Page initialized at address 913
+Page initialized at address 914
+Page initialized at address 915
+Page initialized at address 916
+Page initialized at address 917
+Page initialized at address 918
+Page initialized at address 919
+Page initialized at address 920
+Page initialized at address 921
+Page initialized at address 922
+Page initialized at address 923
+Page initialized at address 924
+PageTable initialized at address 925
+Page initialized at address 926
+Page initialized at address 927
+Page initialized at address 928
+Page initialized at address 929
+Page initialized at address 930
+Page initialized at address 931
+Page initialized at address 932
+Page initialized at address 933
+Page initialized at address 934
+Page initialized at address 935
+Page initialized at address 936
+Page initialized at address 937
+Page initialized at address 938
+Page initialized at address 939
+Page initialized at address 940
+Page initialized at address 941
+Page initialized at address 942
+Page initialized at address 943
+Page initialized at address 944
+Page initialized at address 945
+Page initialized at address 946
+Page initialized at address 947
+Page initialized at address 948
+Page initialized at address 949
+Page initialized at address 950
+Page initialized at address 951
+Page initialized at address 952
+Page initialized at address 953
+Page initialized at address 954
+Page initialized at address 955
+Page initialized at address 956
+Page initialized at address 957
+PageTable initialized at address 958
+Page initialized at address 959
+Page initialized at address 960
+Page initialized at address 961
+Page initialized at address 962
+Page initialized at address 963
+Page initialized at address 964
+Page initialized at address 965
+Page initialized at address 966
+Page initialized at address 967
+Page initialized at address 968
+Page initialized at address 969
+Page initialized at address 970
+Page initialized at address 971
+Page initialized at address 972
+Page initialized at address 973
+Page initialized at address 974
+Page initialized at address 975
+Page initialized at address 976
+Page initialized at address 977
+Page initialized at address 978
+Page initialized at address 979
+Page initialized at address 980
+Page initialized at address 981
+Page initialized at address 982
+Page initialized at address 983
+Page initialized at address 984
+Page initialized at address 985
+Page initialized at address 986
+Page initialized at address 987
+Page initialized at address 988
+Page initialized at address 989
+Page initialized at address 990
+PageTable initialized at address 991
+Page initialized at address 992
+Page initialized at address 993
+Page initialized at address 994
+Page initialized at address 995
+Page initialized at address 996
+Page initialized at address 997
+Page initialized at address 998
+Page initialized at address 999
+Page initialized at address 1000
+Page initialized at address 1001
+Page initialized at address 1002
+Page initialized at address 1003
+Page initialized at address 1004
+Page initialized at address 1005
+Page initialized at address 1006
+Page initialized at address 1007
+Page initialized at address 1008
+Page initialized at address 1009
+Page initialized at address 1010
+Page initialized at address 1011
+Page initialized at address 1012
+Page initialized at address 1013
+Page initialized at address 1014
+Page initialized at address 1015
+Page initialized at address 1016
+Page initialized at address 1017
+Page initialized at address 1018
+Page initialized at address 1019
+Page initialized at address 1020
+Page initialized at address 1021
+Page initialized at address 1022
+Page initialized at address 1023
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 15
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 5
+PageTable returning reference to Page at address 15
+Returning copy of word at Page address 30
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 5
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 16
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 6
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 5
+PageTable returning reference to Page at address 15
+Returning copy of word at Page address 31
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 7
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 30
+PageTable returning reference to Page at address 23
+Returning copy of word at Page address 20
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 8
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 30
+PageTable returning reference to Page at address 23
+Returning copy of word at Page address 21
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 9
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 30
+PageTable returning reference to Page at address 23
+Returning copy of word at Page address 22
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 10
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 11
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 12
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 13
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 14
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 15
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 30
+PageTable returning reference to Page at address 24
+Returning copy of word at Page address 1
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 5
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 16
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 17
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 27
+PageTable returning reference to Page at address 10
+Returning copy of word at Page address 20
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 15
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 18
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 2
+PageTable returning reference to Page at address 25
+Returning copy of word at Page address 19
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 23
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 23
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 23
+MMS writing to TLB.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 24
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 24
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 24
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 19
+PageTable returning reference to Page at address 27
+Returning copy of word at Page address 27
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 19
+PageTable returning reference to Page at address 27
+Returning copy of word at Page address 28
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 18
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 18
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 18
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 18
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 27
+PageTable returning reference to Page at address 26
+Returning copy of word at Page address 15
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 25
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 26
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 3
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 7
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in TLB!
+PageTable returning reference to Page at address 1
+MMS searching for logical address...
+Found in TLB!
+PageTable returning reference to Page at address 1
+MMS writing to TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 3
+PageTable returning reference to Page at address 2
+Returning copy of word at Page address 29
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS writing to TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 3
+PageTable returning reference to Page at address 2
+Returning copy of word at Page address 31
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 30
+PageTable returning reference to Page at address 14
+Returning copy of word at Page address 21
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 1
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 2
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 30
+PageTable returning reference to Page at address 14
+Returning copy of word at Page address 23
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 3
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 3
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 4
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 3
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 5
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 27
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 12
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 26
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 27
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 27
+MMS writing to TLB.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 1
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 2
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 3
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 12
+PageTable returning reference to Page at address 18
+Returning copy of word at Page address 30
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 3
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 4
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 12
+PageTable returning reference to Page at address 19
+Returning copy of word at Page address 8
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 3
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 5
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 18
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 18
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 11
+PageTable returning reference to Page at address 30
+Returning copy of word at Page address 17
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 11
+PageTable returning reference to Page at address 30
+Returning copy of word at Page address 7
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 11
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 11
+PageTable returning reference to Page at address 29
+Returning copy of word at Page address 29
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 12
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 22
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 11
+PageTable returning reference to Page at address 29
+Returning copy of word at Page address 19
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 11
+PageTable returning reference to Page at address 29
+Returning copy of word at Page address 20
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 25
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 13
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 28
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 24
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 11
+PageTable returning reference to Page at address 29
+Returning copy of word at Page address 21
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 28
+PageTable returning reference to Page at address 3
+Returning copy of word at Page address 25
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 11
+PageTable returning reference to Page at address 29
+Returning copy of word at Page address 11
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 17
+PageTable returning reference to Page at address 4
+Returning copy of word at Page address 17
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 18
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 17
+PageTable returning reference to Page at address 4
+Returning copy of word at Page address 28
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 29
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 26
+PageTable returning reference to Page at address 4
+Returning copy of word at Page address 9
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 30
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 10
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 10
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 26
+PageTable returning reference to Page at address 4
+Returning copy of word at Page address 11
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 1
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 1
+MMS writing to TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 30
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 30
+MMS writing to TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 17
+PageTable returning reference to Page at address 4
+Returning copy of word at Page address 24
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 17
+PageTable returning reference to Page at address 4
+Returning copy of word at Page address 15
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 3
+PageTable returning reference to Page at address 14
+Returning copy of word at Page address 14
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 27
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 3
+PageTable returning reference to Page at address 14
+Returning copy of word at Page address 16
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 18
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS writing to TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS writing to TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+SegmentTable returning reference to PageTable at address 0
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 11
+PageTable returning reference to Page at address 9
+Returning copy of word at Page address 2
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in Cache!
+MMS searching for logical address...
+Found in Cache!
+MMS writing to Cache.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 3
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS writing to TLB.
+MMS searching for logical address...
+MMS had to go to main memory for it.
+SegmentTable returning reference to PageTable at address 11
+PageTable returning reference to Page at address 9
+Returning copy of word at Page address 13
+MMS updating Cache.
+MMS updating TLB.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS writing to TLB.
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 3
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS searching for logical address...
+Found in TLB!
+Returning copy of word at Page address 6
+MMS writing to TLB.

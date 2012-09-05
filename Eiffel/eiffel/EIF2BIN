@@ -1,0 +1,4 @@
+compiler : gcc -w -O
+linker   : gcc -s
+make     : make
+

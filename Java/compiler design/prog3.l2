@@ -1,0 +1,7 @@
+program prog3 is
+var a :integer;
+begin
+  write(42);
+  write(a);
+end prog3.
+

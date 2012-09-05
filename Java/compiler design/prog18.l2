@@ -1,0 +1,17 @@
+program prog18 is
+var n :integer;
+
+function fact(n :integer) :integer is
+var answer :integer;
+begin
+  if n = 0 then answer := 1;
+  else answer := n * fact(n - 1);
+  end;
+  return answer;
+end fact;
+
+begin
+  read(n);
+  write(fact(n));
+end prog18.
+

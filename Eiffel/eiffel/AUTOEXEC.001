@@ -1,0 +1,10 @@
+rem - By Windows 95 Network - C:\WIN95\net start
+@ECHO OFF
+cls
+SET PATH=C:\WIN95;C:\WIN95\COMMAND;C:\DOS;C:\JAZZ;C:\LOADLIN;c:\nwclient;c:\tcplus\bin
+@call c:\dos\virusc.bat
+rem put message in here on pass
+REM - By Windows Setup - SET COMSPEC=C:\DOS\COMMAND.COM
+SET BLASTER=A220 I5 D1 H5 T4
+C:\WIN95\COMMAND\MSCDEX.EXE /d:mvcd001 /m:12 /v
+

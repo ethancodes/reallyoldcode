@@ -1,0 +1,30 @@
+program prog19 is
+var y: integer;
+
+function odd(n: integer): integer is
+var o: integer;
+begin
+  if (n mod 2 = 1) then
+    o := 1;
+    write(1);
+  else
+    o := 0;
+    write(n mod 2);
+  end;
+  return o;
+end odd;
+
+function f(n: integer): integer is
+var answer: integer;
+begin
+  answer := 99;
+  if (odd(n) = 1) then answer := n;
+  end;
+  return answer;
+end f;
+
+begin
+  read(y);
+  write(f(y));
+end prog19.
+

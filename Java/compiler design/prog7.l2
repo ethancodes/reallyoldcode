@@ -1,0 +1,9 @@
+program prog7 is
+var a, b, c :integer;
+begin
+  a := 19; b := -36;
+  c := (2 * a + b mod 7) div 3;
+  write(a); write(b); write(c);
+  writeln;
+end prog7.
+

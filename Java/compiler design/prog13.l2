@@ -1,0 +1,9 @@
+program prog13 is
+var n :integer;
+begin
+  n := 5;
+  if n < 7 then
+    write(n);
+  end;
+end prog13.
+

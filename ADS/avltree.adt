@@ -1,0 +1,27 @@
+ADT AVLTree
+
+imported types
+	integer, key
+
+functions
+	create :				--> AVLTree
+	dissolve : AVLTree			-/->
+	insert : AVLTree, key(x)		-/-> AVLTree
+	remove : AVLTree, key(x)		-/-> AVLTree
+	find_smallest : AVLTree, integer(k)	-/-> key(x)
+	size : AVLTree				--> integer(i)
+
+preconditions
+	let a be an AVLTree, i be an integer, k be a key
+	pre dissolve(a)::= size(a) = 0
+	pre insert(a,k)::= size(a) >= 0
+	pre remove(a,k)::= size(a) > 0
+	pre find_smallest(a,i)::= size(a) >= 0
+
+Axioms
+	let a be an AVLTree, i be an integer, k be a key
+	size(create()) = 0
+	size(insert(create(),k)) = size(create()) + 1
+	size(remove(a,k)) = size(a,k) - 1
+	find_smallest(insert(create(),k),i) = i
+

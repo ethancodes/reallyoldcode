@@ -1,0 +1,16 @@
+program postfixr
+ 
+root
+    postfixr : "make"
+ 
+
+cluster
+
+    "./"
+    end
+
+    include  "$EIFFEL_S/library/lib.pdl"
+
+  
+end -- program postfixr
+

@@ -1,0 +1,7 @@
+program prog10 is
+var n :integer;
+begin
+  read(n);
+  write(n);
+end prog10.
+

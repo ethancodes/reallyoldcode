@@ -1,0 +1,13 @@
+program booleans is
+var i, j: integer;
+    b: boolean;
+begin
+  read(i, j);
+  b := i = j;
+  if b then
+    write(1);
+  else
+    write(0);
+  end;
+end booleans.
+

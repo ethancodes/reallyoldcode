@@ -1,0 +1,116 @@
+//file vectitr.h
+#include "iterator.h"
+#include "vector.h"
+#include <assert.h>
+
+#ifndef _VECTOR_ITERATOR_H
+#define _VECTOR_ITERATOR_H
+
+  template <class T>
+  class vectorIterator : public iterator<T> {
+	 public:
+			// constructor
+		vectorIterator (vector<T> & v);
+
+			// iterator protocol
+		virtual int  init         ();
+		virtual int  operator !   ();
+		virtual int  operator ++  ();
+		virtual T &  operator ()  ();
+		virtual void operator =   (T newValue);
+
+			// methods specific to vector iterators
+                void sort (vectorIterator<T> & itr, vectorIterator<T> & jtr);
+		int		     operator -- ();
+		unsigned int  key         ();
+		void			  set			  (vectorIterator<T> & );
+
+	 private:
+		unsigned int  currentKey;
+		vector<T> &   data;
+  };
+
+  template<class T>
+  vectorIterator<T>::vectorIterator (vector<T> & v) : data(v)
+  {	// create and initialize
+	  init();
+  }
+
+  template<class T>
+  int vectorIterator<T>::init ()
+  {
+		currentKey = 0;
+		return operator ! ();
+  }
+
+  template<class T>
+  int vectorIterator<T>::operator ! ()
+  {
+		return currentKey < data.length();
+  }
+
+  template<class T>
+  int vectorIterator<T>::operator ++ ()
+  {
+		currentKey++;
+		return operator ! ();
+  }
+
+  template<class T>
+  T & vectorIterator<T>::operator () ()
+  {
+		assert(operator ! ());
+		return data[currentKey];
+  }
+
+  template<class T>
+  void vectorIterator<T>::operator = (T newValue)
+  {
+		data[currentKey] = newValue;
+  }
+
+  template<class T>
+  int vectorIterator<T>::operator  --  ()
+  {
+		if (currentKey > 0)
+			currentKey--;
+		return operator ! ();
+  }
+
+  template<class T>
+  unsigned int vectorIterator<T>::key ()
+  {
+	  return currentKey;  // get index
+  }
+
+  template <class T>
+  void vectorIterator<T>::set	(vectorIterator & itr)
+  {
+		currentKey = itr.key();
+  }
+
+  template <class T>
+  void vectorIterator<T>::sort (vectorIterator<T> & itr, vectorIterator<T> & jtr)
+  {
+		for (itr.init(); ! itr; itr++) {
+			for (jtr.set(itr); ! jtr; jtr++)
+				if ( jtr () < itr ())
+					swap(jtr (), itr ());
+			}
+  }
+
+  template <class T>
+  ostream & operator << (ostream & out, vectorIterator<T> & v)
+  {
+	  out << '(';
+	  for (v.init(); ! v; v++)
+     {
+		  out << v();
+		  if (! v) { out << ", "; }
+	  }
+	  out << ")\n";
+	  return out;
+  }
+
+#endif
+

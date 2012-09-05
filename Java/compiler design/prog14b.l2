@@ -1,0 +1,11 @@
+program prog14 is
+var n :integer;
+begin
+  n := 15;
+  if n < 7 then
+    write(n);
+  else
+    write(n - 7);
+  end;
+end prog14.
+

@@ -1,0 +1,18 @@
+program prog16 is
+var a, b :integer;
+
+function func1():integer is
+var res :integer;
+begin
+  if a = 0 then res := 10;
+  else res := 20;
+  end;
+  return res;
+end funcblah;
+
+begin
+  read(a);
+  b := func1();
+  write(func1());
+end prog16.
+

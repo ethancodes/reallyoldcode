@@ -1,0 +1,30 @@
+
+
+
+
+
+	Ethan Georgi
+	Eiffel Final Project
+	Fall 1996
+
+		The Random Walk Bug Problem
+
+	The Random Walk Bug Problem places a bug on the tiled
+floor of a room. The room is square, such that the floor is a
+matrix that is x tiles in length by y tiles in width, where x
+and y are defined by the user.
+	The bug begins in the middle of the room and moves at
+random to one of the tiles surrounding the tile the bug is
+currently on. The bug cannot climb walls, thus the number of
+legal moves changes as the bug moves.
+	The bug begins with legal moves in eight directions;
+those being to the upper left, straight up, the upper right,
+left, right, lower left, down, and lower right. If one of
+these moves places the bug outside or on the wall, that move
+is illegal and cannot be made. Therefore, if the bug is next
+to a wall it only has 5 moves, none of which cross the wall;
+if the bug is in a corner it has only three moves.
+	The problem is to find the number of moves it takes the
+bug to make until it has touched every tile on the floor, 
+assuming that a illegal move cannot be made and therefore 
+does not count as a move.

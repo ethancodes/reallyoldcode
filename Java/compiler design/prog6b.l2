@@ -1,0 +1,8 @@
+program prog6 is
+var i, n :integer;
+begin
+  n := 42;
+  i := n;
+  writeln(n);
+end prog6.
+

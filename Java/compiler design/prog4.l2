@@ -1,0 +1,6 @@
+program prog4 is
+var a, b, c :integer;
+begin
+  write(a, b, 42, c);
+end prog4.
+

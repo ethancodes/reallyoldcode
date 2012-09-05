@@ -1,0 +1,16 @@
+program twoparams is
+var a, b: integer;
+
+function c(dd: integer; ee: integer): integer is
+var f, g: integer;
+begin
+  f := dd;
+  g := ee;
+  return (f + g);
+end c;
+
+begin
+  read(a, b);
+  write(c(a, b));
+end twoparams.
+

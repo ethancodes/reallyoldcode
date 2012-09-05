@@ -1,0 +1,3 @@
+the zip file containing eiffel requires PKUNZIP to handle the disk
+spanning. i tried to extract one file at a time and even that didn't
+work. this sucks.

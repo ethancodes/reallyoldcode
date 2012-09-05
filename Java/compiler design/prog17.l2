@@ -1,0 +1,19 @@
+program program17 is
+var n :integer;
+
+function fact(i :integer) :integer is
+var prod, k :integer;
+begin
+  prod := 1; k := i;
+  while k > 0 do
+    prod := prod * k;
+    k := k - 1;
+  end;
+  return prod;
+end fact;
+
+begin
+  read(n);
+  write(fact(n));
+end program17.
+

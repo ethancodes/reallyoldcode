@@ -1,0 +1,17 @@
+program walk
+ 
+root
+    walk : "setup"
+ 
+
+cluster
+
+    "./"
+    end
+
+    include  "$EIFFEL_S/library/lib.pdl"
+
+    lib "-lm"
+  
+end -- program walk
+

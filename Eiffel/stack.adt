@@ -1,0 +1,30 @@
+ADT STACK
+SETS
+     S    set of all stacks
+     B    boolean
+     I    set of all integers
+     T    set of all items
+SIGNATURES
+     CREATIONS
+          create:     ---> S
+          dissolve: S --->
+     TRANSFORMATIONS
+          push:   S,T ---> S
+          pop:      S -/-> S
+     OBSERVATIONS
+          empty:    S ---> B
+          top:      S -/-> T
+          length:   S ---> I
+PRE-CONDITIONS
+     Let s belong to S
+          pre-pop(s) ::= not empty(s)
+          pre-top(s) ::= not empty(s)
+AXIOMS
+     For all s:S, t:T
+          empty(create)       = True
+          empty(push(s,t)     = False
+          length(create)      = 0
+          length(push(s,t))   = length(s) + 1
+          length(pop(s))      = length(s) - 1
+          pop(push(s,t))      = s
+          top(push(s,t))      = t

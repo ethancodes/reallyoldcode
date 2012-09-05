@@ -1,0 +1,7 @@
+program prog8 is
+var a, b, c :integer;
+begin
+  a := -15; b := 45; c := 6;
+  write((2 * a + b) div (c div 2));
+end prog8.
+

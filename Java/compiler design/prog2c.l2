@@ -1,0 +1,7 @@
+program prog2 is
+var a :integer;
+    b :boolean;
+begin
+  write(a);
+end prog2.
+

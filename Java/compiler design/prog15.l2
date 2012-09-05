@@ -1,0 +1,10 @@
+program prog15 is
+var k :integer;
+begin
+  k := 10;
+  while k > 0 do
+    write(k);
+    k := k - 1;
+  end;
+end prog15.
+

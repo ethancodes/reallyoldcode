@@ -1,0 +1,5 @@
+program prog2 is
+begin
+  write(42);
+end prog2.
+

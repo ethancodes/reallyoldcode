@@ -1,0 +1,10 @@
+program prog12 is
+var b1, b2, b3 :boolean;
+    n1, n2 :integer;
+begin
+  n1 := 28; n2 := 39;
+  b1 := n1 >= n2;
+  b2 := n1 + 5 # n2; \\hash? HASH? wtf is hash? !=
+  b3 := b2;
+end prog12.
+

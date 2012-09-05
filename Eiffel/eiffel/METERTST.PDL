@@ -1,0 +1,16 @@
+program metertst
+ 
+root
+    metertst : "make"
+ 
+
+cluster
+
+    "./"
+    end
+
+    include  "$EIFFEL_S/library/lib.pdl"
+
+  
+end -- program metertst
+

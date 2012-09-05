@@ -1,0 +1,5 @@
+DOS=SINGLE
+DOS=HIGH,UMB
+Device=C:\DOS\Himem.Sys
+Device=c:\dos\emm386.exe 
+rem X=CC00-CDFF X=D800-D0FF
